@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-biblioteca", "csharp-biblioteca.csproj", "{3C66DBE8-3AB4-4FD9-AFE2-1066A2788408}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-oop-shop", "..\csharp-oop-shop\csharp-oop-shop.csproj", "{AAD81CF6-5F81-4641-BDD3-DD7082E8C346}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3C66DBE8-3AB4-4FD9-AFE2-1066A2788408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C66DBE8-3AB4-4FD9-AFE2-1066A2788408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C66DBE8-3AB4-4FD9-AFE2-1066A2788408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD81CF6-5F81-4641-BDD3-DD7082E8C346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD81CF6-5F81-4641-BDD3-DD7082E8C346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD81CF6-5F81-4641-BDD3-DD7082E8C346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD81CF6-5F81-4641-BDD3-DD7082E8C346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
